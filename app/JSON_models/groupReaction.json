@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "100028334477192",
+      "name": "Bobby Sass",
+      "type": "LIKE"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "TVRBd01ESTRNek0wTkRjM01Ua3lPakUxTXpZAek5ERXlORGM2TWpVME1EazJNVFl4TXc9PQZDZD",
+      "after": "TVRBd01ESTRNek0wTkRjM01Ua3lPakUxTXpZAek5ERXlORGM2TWpVME1EazJNVFl4TXc9PQZDZD"
+    }
+  }
+}
+

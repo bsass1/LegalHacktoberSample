@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "name": "Test Workplace Group - Bobby",
+      "privacy": "CLOSED",
+      "id": "465235423971266"
+    },
+    {
+      "name": "Legal Refresh Launch Test Group",
+      "privacy": "SECRET",
+      "id": "1839136679499463"
+    },
+    {
+      "name": "Test New Integrations",
+      "privacy": "SECRET",
+      "id": "1705339242913301"
+    },
+    {
+      "name": "vRAN Fronthaul at TIM",
+      "privacy": "SECRET",
+      "id": "207468449842851"
+    },
+    {
+      "name": "vRAN Fronthaul at BT",
+      "privacy": "SECRET",
+      "id": "194681804481495"
+    },
+    {
+      "name": "vRAN Fronthaul at Cablelabs",
+      "privacy": "SECRET",
+      "id": "429476737508721"
+    },
+    {
+      "name": "vRAN Fronthaul at Airtel",
+      "privacy": "SECRET",
+      "id": "227888674424579"
+    },
+    {
+      "name": "TIP Summit 2018 Planning",
+      "privacy": "SECRET",
+      "id": "150495828962822"
+    },
+    {
+      "name": "OOPT: Disaggregated Cell Site Gateways",
+      "privacy": "SECRET",
+      "id": "322992141557192"
+    },
+    {
+      "name": "TIP - Power and Connectivity",
+      "privacy": "SECRET",
+      "id": "1633580563375315"
+    },
+    {
+      "name": "TIP - Crowdcell",
+      "privacy": "SECRET",
+      "id": "129016587817707"
+    },
+    {
+      "name": "OOPT: Open Line System (OLS) - SECRET NON MCG",
+      "privacy": "SECRET",
+      "id": "192827908154305"
+    },
+    {
+      "name": "TIP BR Internal",
+      "privacy": "SECRET",
+      "id": "160196541298764"
+    },
+    {
+      "name": "TIP - People and Processes",
+      "privacy": "SECRET",
+      "id": "182310885704282"
+    },
+    {
+      "name": "TIP -  Artificial Intelligence and Machine Learning",
+      "privacy": "SECRET",
+      "id": "1815567091846844"
+    },
+    {
+      "name": "TIP - End-to-End Network Slicing (E2E-NS)",
+      "privacy": "SECRET",
+      "id": "150943325617257"
+    },
+    {
+      "name": "TIP - Systems Integration and Optimization",
+      "privacy": "SECRET",
+      "id": "1190683854395967"
+    },
+    {
+      "name": "TIP - Solutions Integration",
+      "privacy": "SECRET",
+      "id": "2046235698989887"
+    },
+    {
+      "name": "TIP - Open Cellular - Wireless Access Platform",
+      "privacy": "SECRET",
+      "id": "179246485903086"
+    },
+    {
+      "name": "TIP - OpenRAN",
+      "privacy": "SECRET",
+      "id": "371701059961386"
+    },
+    {
+      "name": "TIP - Vran Fronthaul",
+      "privacy": "SECRET",
+      "id": "143813146309164"
+    },
+    {
+      "name": "TIP - Edge Computing",
+      "privacy": "SECRET",
+      "id": "347509242397070"
+    },
+    {
+      "name": "TIP - mmWave Networks",
+      "privacy": "SECRET",
+      "id": "537367656662211"
+    },
+    {
+      "name": "TIP - Open Optical Packet Transport",
+      "privacy": "SECRET",
+      "id": "221581768414310"
+    },
+    {
+      "name": "Test 123",
+      "privacy": "SECRET",
+      "id": "768221243366647"
+    },
+    {
+      "name": "OOPT: Disaggregated Transponders and Chips (DTC)",
+      "privacy": "CLOSED",
+      "id": "853876878113608"
+    },
+    {
+      "name": "mmWave: Deployment Best Practices",
+      "privacy": "SECRET",
+      "id": "232665523934931"
+    },
+    {
+      "name": "mmWave: Cost Economics",
+      "privacy": "SECRET",
+      "id": "1119955708142073"
+    },
+    {
+      "name": "mmWave: Technical Validation",
+      "privacy": "SECRET",
+      "id": "147269225898989"
+    },
+    {
+      "name": "mmWave: Network Planning",
+      "privacy": "SECRET",
+      "id": "244991429364440"
+    },
+    {
+      "name": "TIP Summit 2017",
+      "privacy": "OPEN",
+      "id": "1761730657455081"
+    },
+    {
+      "name": "TIP Help Services Desk",
+      "privacy": "OPEN",
+      "id": "187127511854218"
+    },
+    {
+      "name": "Incubator - Application Enablement APIs",
+      "privacy": "SECRET",
+      "id": "307129019692881"
+    },
+    {
+      "name": "TIP Event Promotions and Social Media",
+      "privacy": "SECRET",
+      "id": "133646533914831"
+    },
+    {
+      "name": "TIP Bi-Weekly Newsletter Content",
+      "privacy": "OPEN",
+      "id": "1472783562780040"
+    },
+    {
+      "name": "TIP Bi-Weekly Newsletter Contributors",
+      "privacy": "CLOSED",
+      "id": "502931476720544"
+    },
+    {
+      "name": "TiP Launch CG",
+      "privacy": "SECRET",
+      "id": "211761226019889"
+    },
+    {
+      "name": "TIP Summit 2017 Planning",
+      "privacy": "CLOSED",
+      "id": "1986732008228074"
+    },
+    {
+      "name": "TIP Community Building",
+      "privacy": "OPEN",
+      "id": "340379186395627"
+    },
+    {
+      "name": "TIP Greenfield Networks - Public Announcements",
+      "privacy": "OPEN",
+      "id": "227928491048458"
+    },
+    {
+      "name": "Discussion: Infrastructure Automation",
+      "privacy": "CLOSED",
+      "id": "1806455876037531"
+    },
+    {
+      "name": "TIP Feedback Forum",
+      "privacy": "OPEN",
+      "id": "243752829455168"
+    },
+    {
+      "name": "Testing WorkPlace Features (Private for now)",
+      "privacy": "SECRET",
+      "id": "557013214687073"
+    },
+    {
+      "name": "TIP in the News",
+      "privacy": "OPEN",
+      "id": "245646749238360"
+    },
+    {
+      "name": "Telecom Infra Project General Announcements",
+      "privacy": "OPEN",
+      "id": "776256569197991"
+    },
+    {
+      "name": "SCIM API",
+      "privacy": "CLOSED",
+      "id": "1863782903865854"
+    },
+    {
+      "name": "Workplace Tips",
+      "privacy": "OPEN",
+      "id": "966085533536605"
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUnlDTy01NnI1cGZAIbGVkcFFOM3J5eTc3ZAGxTOUtKdmRjZAHJWcXR6cEhVaUotX3cwRTdoYTZAYbzVKc0NMYXc0Rl93UnVPUm1WLWpBMmxxbmtZAYnR5WnhB",
+      "after": "QVFIUjhBMzE3U2s0MW1LZAWNzLXZA2cnh0Umpobnk5Y09BdE5IYWNLUm9CSFJJVUxpNm9pSkhmbGF5Tm16YS1oa0xpVjRDS0hXdzdhMDlTMzktZAUZAKdUpvNzh3"
+    }
+  }
+}
